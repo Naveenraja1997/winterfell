@@ -3,4 +3,4 @@ import httpresponse
 
 # Create your views here.
 def naveen(request):
-    httpresponse()
+    httpresponse("hi")
